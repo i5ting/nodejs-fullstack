@@ -25,7 +25,7 @@ https://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ==&mid=405001493&idx=1&sn=f0ecab9
 - [6月18日北京 野狗Meetup技术沙龙](https://segmentfault.com/e/1160000005694214)
 
 
-如果想邀请分享，请邮寄给我shiren1118@126.com,如果时间ok，我会尽量分享
+如果想邀请分享，请邮寄给我i5ting@126.com,如果时间ok，我会尽量分享
 
 ## 主要内容
 
