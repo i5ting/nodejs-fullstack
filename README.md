@@ -8,7 +8,7 @@ https://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ==&mid=405001493&idx=1&sn=f0ecab9
 
 仔细的对比了一遍，感谢tim yang和庆丰校长的整理，非常严谨，比我讲的要好，另外感谢霍老板封我是StuQ明星讲师[呲牙][呲牙]
 
-持续更新版本
+持续更新版本，如果有问题请在issue里提问
 
 - 仓库地址 https://github.com/i5ting/nodejs-fullstack
 - 在线阅读 http://i5ting.github.io/nodejs-fullstack/ 
