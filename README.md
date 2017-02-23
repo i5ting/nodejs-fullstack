@@ -27,6 +27,11 @@ https://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ==&mid=405001493&idx=1&sn=f0ecab9
 
 如果想邀请分享，请邮寄给我i5ting@126.com,如果时间ok，我会尽量分享
 
+
+更多沟通
+
+![Connect](images/connect.jpg)
+
 ## 主要内容
 
 1. Why Node.js ？
@@ -1060,3 +1065,7 @@ nodejs里[json-server](https://github.com/typicode/json-server) 比较好
 欢迎关注我的公众号【node全栈】
 
 ![node全栈.png](//dn-cnode.qbox.me/FtALxsauUkYDGdzcuA5y6BaIdUMC)
+
+更多沟通
+
+![Connect](images/connect.jpg)
