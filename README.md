@@ -25,7 +25,7 @@ https://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ==&mid=405001493&idx=1&sn=f0ecab9
 - [6月18日北京 野狗 Meetup 技术沙龙](https://segmentfault.com/e/1160000005694214)
 
 
-如果想邀请分享，请邮寄给我i5ting@126.com,如果时间ok，我会尽量分享
+如果想邀请分享，请邮寄给我i5ting@126.com，如果时间ok，我会尽量分享
 
 
 更多沟通
@@ -646,7 +646,7 @@ hz-doc
 moag order name:string password:string
 ```
 
-其他开发，如 iOS 开发里模型校验非常烦,于是写了一个 json2objc 命令行工具，读取 json，生成 OC 代码，可以节省不少时间
+其他开发，如 iOS 开发里模型校验非常烦，于是写了一个 json2objc 命令行工具，读取 json，生成 OC 代码，可以节省不少时间
 
 ## 7、Moajs框架和前后端分离
 
@@ -949,7 +949,7 @@ https://github.com/moajs/moa-frontend
 - 组件化在前端领域先行，无论借鉴还是学习都不可避免
 - 如果没时间就直接上组件化，如果有时间就好好学学前端完整体系，最终也还是要学组件化
 
-原生开发就是 iOS 用 OC/Swift,Android 用 java 或 scala 等，就算偶尔嵌入 webview，能玩js的机会也非常好少
+原生开发就是 iOS 用 OC/Swift，Android 用 java 或 scala 等，就算偶尔嵌入 webview，能玩js的机会也非常好少
 
 所以移动端转全栈的方法，最好是从 cordova（以前叫 phonegap）开始做 hybrid 开发。
 
@@ -1005,7 +1005,7 @@ nodejs 里 [json-server](https://github.com/typicode/json-server) 比较好
 
 我其实很想围绕静态 api，写各种请求的生成器，只要 api 出来，文档和各平台的 http 请求代码就生成出来，同时可以对正式api进行压测，可惜目前还没精力写
 
-## 问题四：做 hybrid app 在移动端会遇到性能问题吧。。有没有什么优化经验可以分享？
+## 问题四：做 hybrid app 在移动端会遇到性能问题吧。有没有什么优化经验可以分享？
 
 - 足够轻量级，少选大框架，做好前端该有的优化
 - 注意 touch 和 click 的区别，比如 fastclick 或 zeptojs 的 tap 手势
@@ -1029,10 +1029,12 @@ nodejs 里 [json-server](https://github.com/typicode/json-server) 比较好
 
 ## 问题七：Node.js 做业务金额计算的金额性能和精度够吗
 
-1）你问的不是 Node.js，而是 Node.js 要操作的数据库。
+1）你问的不是 Node.js，而是 Node.js 要操作的数据库
+
 2）耗性能的计算可以在架构上平衡的
 - 如果可以延时，mq 就可以了
-- 如果是非延时情况，可以采用其他语言编写对应服务，没必要非要一定要N ode.js
+- 如果是非延时情况，可以采用其他语言编写对应服务，没必要非要一定要Node.js
+
 3）我们目前的场景，还没有在计算遇到瓶颈
 
 
@@ -1042,7 +1044,7 @@ nodejs 里 [json-server](https://github.com/typicode/json-server) 比较好
 
 语义上更加清晰
 
-整个返回的 json 就只有 data 和 status，如果 status.code!=0,我取 msg 就好了，如果等于0，处理 data 数据
+整个返回的 json 就只有 data 和 status，如果 status.code!=0，我取 msg 就好了，如果等于0，处理 data 数据
 
 这种设计不见得多好，不过结构清晰，对于开发者来说，是比较容易接受的
 
